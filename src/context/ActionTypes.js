@@ -1,0 +1,11 @@
+export const initialData = "INTIIAL_DATA";
+export const error = "ERROR";
+export const radiofalse = "DROPDOWN_UPDATE_TRUE";
+export const dropdownfalse = "DROPDOWN_UPDATE_FALSE";
+export const addPlanet = "ADD_PLANET";
+export const addVehicle = "ADD_VEHICLE";
+export const addResult = "ADD_RESULT";
+export const resultError = "RESULT_ERROR";
+export const reset = "RESET";
+export const resetResult = "RESET_RESULT";
+export const addTime = "ADD_TIME_TAKEN";

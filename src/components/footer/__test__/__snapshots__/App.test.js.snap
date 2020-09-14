@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot  1`] = `
+<div
+  className="MuiGrid-root makeStyles-root-1"
+>
+  <div
+    className="react-reveal"
+    style={
+      Object {
+        "opacity": undefined,
+      }
+    }
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1"
+    >
+      Coding problem -
+      <a
+        className="makeStyles-link-2"
+        href="www.geektrust.in/finding-falcone"
+      >
+        www.geektrust.in/finding-falcone
+      </a>
+    </p>
+  </div>
+</div>
+`;
